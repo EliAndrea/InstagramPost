@@ -1,0 +1,54 @@
+body{
+    background-color: #000000;
+    font-family: 'Heebo', sans-serif;
+}
+.contenedor{
+    background-color: #ffffff;
+    width: 650px;
+    height: 70%;
+    margin: auto;
+    margin-top: 10%;
+}
+.perfil{
+    float: left;
+    margin-top: 20px;
+    width: 70px;
+    text-align: center;
+    font-size: 55px;
+}
+.titulo{
+    float: left;
+    font-size: 20px;
+    overflow: hidden;
+    margin-top: 25px;
+}
+.subtitulo{
+    float: left;
+    position: relative;
+    top: 35px;
+    right: 65px;
+}
+.mas{
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;
+    font-size: 30px;
+}
+.acciones{
+    margin:20px;
+}
+.acciones a{
+    color: #000000;
+    font-size: 30px;
+}
+.etiquetar{
+    float: right;
+}
+.post a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #000000;
+}
+.post{
+    margin: 20px;
+}

@@ -7,7 +7,7 @@ body{
     width: 650px;
     height: 70%;
     margin: auto;
-    margin-top: 10%;
+    margin-top: 5%;
 }
 .perfil{
     float: left;
@@ -32,6 +32,9 @@ body{
     float: right;
     margin-top: 30px;
     margin-right: 20px;
+}
+.mas a{
+    color: #000000;
     font-size: 30px;
 }
 .acciones{
